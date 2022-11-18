@@ -19,7 +19,6 @@ export default function Navbar() {
                 </div>
                 <div className="navbarIconContainer">
                     <Settings/>
-                    <span className='topiconBadge'>3</span>
                 </div>
             </div>
         </div>
