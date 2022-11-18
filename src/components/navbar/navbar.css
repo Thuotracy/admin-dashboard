@@ -18,3 +18,22 @@
     color: blue;
     cursor: pointer;
 }
+
+.navbarIconContainer{
+    position: relative;
+}
+
+.topiconBadge{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: -5px;
+    right: 5px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
