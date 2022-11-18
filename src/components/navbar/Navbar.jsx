@@ -20,6 +20,7 @@ export default function Navbar() {
                 <div className="navbarIconContainer">
                     <Settings/>
                 </div>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJaDDGGIr4sAZpBErSsljP5LBAm2QQFguzhA&usqp=CAU" alt="" className='topAvatar' />
             </div>
         </div>
     </div>
