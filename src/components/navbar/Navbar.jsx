@@ -1,5 +1,5 @@
 import './navbar.css';
-import {NotificationsNone} from '@material-ui/icons';
+import {NotificationsNone, Language, Settings} from '@material-ui/icons';
 
 export default function Navbar() {
   return (
@@ -11,6 +11,14 @@ export default function Navbar() {
             <div className="topRight">
                 <div className="navbarIconContainer">
                     <NotificationsNone/>
+                    <span className='topiconBadge'>3</span>
+                </div>
+                <div className="navbarIconContainer">
+                    <Language/>
+                    <span className='topiconBadge'>3</span>
+                </div>
+                <div className="navbarIconContainer">
+                    <Settings/>
                     <span className='topiconBadge'>3</span>
                 </div>
             </div>
