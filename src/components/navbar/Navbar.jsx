@@ -6,7 +6,7 @@ export default function Navbar() {
     <div className='navbar'>
         <div className="navbarwrapper">
             <div className="topLeft">
-                <span className='logo'>Admin</span>
+                <span className='logo'>Adminnnnn</span>
             </div>
             <div className="topRight">
                 <div className="navbarIconContainer">
