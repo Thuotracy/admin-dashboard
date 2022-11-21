@@ -6,7 +6,7 @@ import './app.css'
 function App() {
   return (
     <div>
-        {/* <Navbar/> */}
+        <Navbar/>
         <div className='container'>
           <Sidebar/>
           <div className="others">other pages</div>

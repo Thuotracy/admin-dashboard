@@ -13,6 +13,10 @@ export default function Sidebar() {
                     Home
                 </li>
                 <li className='sidebarListItem'>
+                  <LineStyle/>
+                    Home
+                </li>
+                <li className='sidebarListItem'>
                   <Timeline/>
                     Analytics
                 </li>
