@@ -1,4 +1,4 @@
-import { LineStyle, Timeline } from '@material-ui/icons';
+import { LineStyle, Timeline, TrendingUp } from '@material-ui/icons';
 import './sidebar.css';
 
 export default function Sidebar() {
@@ -17,7 +17,7 @@ export default function Sidebar() {
                     Analytics
                 </li>
                 <li className='sidebarListItem'>
-                  <Trending/>
+                  <TrendingUp/>
                     Sales
                 </li>
               </ul>
