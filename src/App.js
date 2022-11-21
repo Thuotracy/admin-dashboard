@@ -6,9 +6,10 @@ import './app.css'
 function App() {
   return (
     <div>
-        {/* <Navbar /> */}
+        {/* <Navbar/> */}
         <div className='container'>
-          <Sidebar />
+          <Sidebar/>
+          <div className="others">other pages</div>
         </div>
     </div>
   );
