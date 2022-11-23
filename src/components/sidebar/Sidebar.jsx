@@ -19,8 +19,7 @@ export default function Sidebar() {
                 </li>
                 <li className='sidebarListItem'>
                   <Timeline/>
-                    home
-                    
+                    Analytics                  
                 </li>
                 <li className='sidebarListItem'>
                   <TrendingUp/>
