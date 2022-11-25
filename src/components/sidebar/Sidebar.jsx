@@ -48,10 +48,10 @@ export default function Sidebar() {
               </li> */}
             
            
-              <li className="sidebarListItem">
+              {/* <li className="sidebarListItem">
                 <Storefront className="sidebarIcon" />
                 Products
-              </li>
+              </li> */}
           
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
