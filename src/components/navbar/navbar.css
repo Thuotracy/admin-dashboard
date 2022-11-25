@@ -18,7 +18,7 @@
 .logo{
     font-weight: bold;
     font-size: 30px;
-    color: blue;
+    color: red;
     cursor: pointer;
 }
 
@@ -40,7 +40,7 @@
     height: 15px;
     top: -5px;
     right: 0px;
-    background-color: red;
+    background-color: black;
     color: white;
     border-radius: 50%;
     display: flex;
