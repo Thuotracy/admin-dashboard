@@ -42,16 +42,16 @@ export default function Sidebar() {
           <h3 className="sidebarTitle">Main  Menu</h3>
           <ul className="sidebarList">
             
-              {/* <li className="sidebarListItem">
+              <li className="sidebarListItem">
                 <PermIdentity className="sidebarIcon" />
                 Users
-              </li> */}
+              </li>
             
            
-              {/* <li className="sidebarListItem">
+              <li className="sidebarListItem">
                 <Storefront className="sidebarIcon" />
                 Products
-              </li> */}
+              </li>
           
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
