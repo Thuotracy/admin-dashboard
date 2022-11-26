@@ -23,7 +23,7 @@ export default function FeaturedInfo() {
                 <ArrowDownward className='featuredIcon negative'/>
             </span>
            </div> 
-           <span className="featuredSub">Compared to last month</span>
+           <span className="featuredSub">Compared to last Month</span>
         </div>
 
         <div className="featuredItem">
