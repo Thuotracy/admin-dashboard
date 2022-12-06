@@ -1,4 +1,4 @@
-import 'widgetLg.css'
+import './widgetLg.css'
 
 export default function widgetLg() {
   return (

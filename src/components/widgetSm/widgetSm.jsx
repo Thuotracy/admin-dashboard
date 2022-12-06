@@ -1,4 +1,4 @@
-import 'widgetSm.css'
+import './widgetSm.css'
 
 export default function widgetSm() {
   return (
