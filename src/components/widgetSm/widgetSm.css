@@ -23,3 +23,9 @@
     padding: 0;
     list-style: none;
 }
+
+.widgetSmListItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
