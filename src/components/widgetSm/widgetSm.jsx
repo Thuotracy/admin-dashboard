@@ -1,3 +1,4 @@
+import { Visibility } from '@material-ui/icons'
 import './widgetSm.css'
 
 export default function widgetSm() {
@@ -11,6 +12,10 @@ export default function widgetSm() {
                     <span className='widgetSmUsername'>John Doe</span>
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
+                <button className='widgetSmButton'>
+                    <Visibility/>
+                    Display
+                </button>
             </li>
         </ul>
     </div>
