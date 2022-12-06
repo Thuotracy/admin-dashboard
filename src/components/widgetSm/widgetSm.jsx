@@ -13,7 +13,7 @@ export default function widgetSm() {
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
                 <button className='widgetSmButton'>
-                    <Visibility/>
+                    <Visibility className='widgetSmIcon'/>
                     Display
                 </button>
             </li>
@@ -25,7 +25,7 @@ export default function widgetSm() {
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
                 <button className='widgetSmButton'>
-                    <Visibility/>
+                    <Visibility className='widgetSmIcon'/>
                     Display
                 </button>
             </li>
@@ -37,7 +37,7 @@ export default function widgetSm() {
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
                 <button className='widgetSmButton'>
-                    <Visibility/>
+                    <Visibility className='widgetSmIcon'/>
                     Display
                 </button>
             </li>
@@ -49,7 +49,7 @@ export default function widgetSm() {
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
                 <button className='widgetSmButton'>
-                    <Visibility/>
+                    <Visibility className='widgetSmIcon'/>
                     Display
                 </button>
             </li>
@@ -61,7 +61,7 @@ export default function widgetSm() {
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
                 <button className='widgetSmButton'>
-                    <Visibility/>
+                    <Visibility className='widgetSmIcon'/>
                     Display
                 </button>
             </li>
@@ -73,7 +73,7 @@ export default function widgetSm() {
                     <span className='widgetSmUserTitle'>Software Engineer</span>
                 </div>
                 <button className='widgetSmButton'>
-                    <Visibility/>
+                    <Visibility className='widgetSmIcon'/>
                     Display
                 </button>
             </li>
