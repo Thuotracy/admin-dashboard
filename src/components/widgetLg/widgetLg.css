@@ -10,6 +10,16 @@
     font-weight: 600;
 }
 
+.widgetLgTh{
+    text-align: left;
+}
+
+.widgetLgTable{
+    width: 100%;
+    border-spacing: 20px;
+}
+
+
 .widgetLgButton{
     padding: 5px 7px;
     border: 1px solid black;
