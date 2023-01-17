@@ -1,4 +1,4 @@
-import 'userList.css';
+import './userList.css';
 
 export default function userList() {
   return (
