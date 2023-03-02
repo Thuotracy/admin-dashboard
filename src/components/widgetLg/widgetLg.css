@@ -28,12 +28,15 @@
 
 .widgetLgButton.Approved{
     background-color: #d7faec;
+    color: #3bb077 ;
 }
 
 .widgetLgButton.Declined{
     background-color: #fdd4d6;
+    color: #d95087;
 }
 
 .widgetLgButton.Pending{
     background-color: #d4e1fd;
+    color: #2a7ade;
 }
